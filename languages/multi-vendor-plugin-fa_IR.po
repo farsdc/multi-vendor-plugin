@@ -1,0 +1,60 @@
+msgid ""
+msgstr ""
+"Content-Type: text/plain; charset=UTF-8\n"
+"Project-Id-Version: Multi Vendor Plugin 1.0\n"
+"Language: fa_IR\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+msgid "Username"
+msgstr "نام کاربری"
+
+msgid "Email"
+msgstr "ایمیل"
+
+msgid "Password"
+msgstr "رمز عبور"
+
+msgid "Shop Name"
+msgstr "نام فروشگاه"
+
+msgid "Address"
+msgstr "آدرس"
+
+msgid "Logo URL"
+msgstr "آدرس لوگو"
+
+msgid "Number of Employees"
+msgstr "تعداد کارکنان"
+
+msgid "Categories"
+msgstr "دسته‌بندی‌ها"
+
+msgid "Register"
+msgstr "ثبت نام"
+
+msgid "Vendor Dashboard"
+msgstr "داشبورد فروشنده"
+
+msgid "Welcome to your dashboard. Here you can manage your products."
+msgstr "به داشبورد خود خوش آمدید. در اینجا می‌توانید محصولات خود را مدیریت کنید."
+
+msgid "Add New Product"
+msgstr "افزودن محصول جدید"
+
+msgid "Your Products"
+msgstr "محصولات شما"
+
+msgid "No products found."
+msgstr "هیچ محصولی یافت نشد."
+
+msgid "Vendor Information"
+msgstr "اطلاعات فروشنده"
+
+msgid "Vendor ID"
+msgstr "شناسه فروشنده"
+
+msgid "The ID of the vendor who added this product."
+msgstr "شناسه فروشنده‌ای که این محصول را اضافه کرده است."
+
+msgid "Registration Failed"
+msgstr "ثبت نام ناموفق بود"
